@@ -10,7 +10,7 @@ In general worked with monolitic, microservice and serverless arthitectures.
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/NUGOS/">
+   <a href="https://www.linkedin.com/in/dmytro-lysak/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
  <!--  <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
