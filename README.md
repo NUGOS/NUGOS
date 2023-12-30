@@ -5,8 +5,8 @@ In general worked with monolitic, microservice and serverless arthitectures.
    <a href="https://github-readme-stats.vercel.app/api?username=NUGOS&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=NUGOS&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/NUGOS/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUGOS&layout=compact"/></a>
+  <!--<a href="https://github.com/NUGOS/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUGOS&layout=compact"/></a> -->
 </p>
 
 <p align='center'>
