@@ -1,48 +1,43 @@
-# Hi, I'm Dmytro 👋
-I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures.
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=NUGOS&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=NUGOS&show_icons=true&count_private=true"/></a>
-  <!--<a href="https://github.com/NUGOS/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUGOS&layout=compact"/></a> -->
-</p>
+# Hi, I'm Dmytro Lysak
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/dmytro-lysak/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
- <!--  <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a> -->
-  
-<p align='center'>
-   📫 How to reach me: <a href='mailto:ldv@ldv.com.ua'>ldv@ldv.com.ua</a>
-</p>
+Junior Java Backend Developer focused on business automation, integrations, and practical server-side workflows.
 
+My background comes from B2B automotive parts and service operations. I work with tender-related processes, task distribution, customer approvals, and internal process optimization. I am moving this practical business experience into backend development: Java/Spring Boot services, REST APIs, automation workflows, and Linux/VPS deployments.
 
-<!-- ### Key points  -->
+## Current focus
 
-## 🛠 Technical Stack
-*   Java languages
-*   MySQL, PostgreSQL, MongoDB, Flyway, 
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   GitHub/GitLab/
+- Java backend development: Spring Boot, REST APIs, SQL, Maven/Gradle, Git
+- Business automation and integrations: n8n workflows, webhooks, calendar/process automation
+- Server and deployment practice: Linux, Docker, Nginx, Jenkins, Proxmox, VPS
+- CRM-like internal tooling for tender and auto-parts operations
+- Improving older learning and pet projects into clean public examples
 
-<!--### My opensource projects -->
+## Practical automation experience
 
-<!--
-**NUGOS/NUGOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Built an n8n webhook workflow that creates calendar events for tenders automatically.
+- Reduced a manual tender-calendar routine from about 3-4 hours to about 1 hour for review and assignment.
+- Continue improving internal workflows for task distribution, tender processing, parts operations, and management visibility.
 
-Here are some ideas to get you started:
+## Highlighted projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Server environment setup** - shell automation for preparing Linux/VPS environments used for development and deployment.
+- **Java/Spring Boot learning projects** - CRUD, web UI, JPA/Flyway, security, REST, and calendar integration practice.
+- **CenturionCAD pet project** - Java/Spring Boot practice with REST API work, email confirmation, GitHub webhooks, Jenkins CI/CD, Docker, and Nginx reverse proxy.
+
+## Tech stack
+
+**Backend:** Java, Spring Boot, REST API, SQL, Maven, Gradle
+
+**Automation:** n8n, webhooks, calendar workflows
+
+**Infrastructure:** Linux, Docker, Nginx, Jenkins, Proxmox, VPS
+
+**Tools:** Git, GitHub, Codex-assisted development
+
+## Open to
+
+Junior Java Backend, Business Automation / Integrations, and junior DevOps-minded roles where practical business context and automation thinking are useful.
+
+- Location: Dnipro, Ukraine or remote
+- LinkedIn: https://www.linkedin.com/in/dmytro-lysak/
+- Email: ldv@ldv.com.ua
